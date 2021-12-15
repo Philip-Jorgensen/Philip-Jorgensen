@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Philip-Jorgensen
+- 👀 I’m a christian
+- 🌱 I’m currently learning Engineering at uni
