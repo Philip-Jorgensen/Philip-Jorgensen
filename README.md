@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Philip-Jorgensen
-- 👀 I’m a christian
-- 🌱 I’m currently learning Engineering at uni
+- 👀 I’m a christian, with a passion for learning
+- 🌱 I’m currently studying Mechatronics Engineering at University of Southern Denmark, SDU
